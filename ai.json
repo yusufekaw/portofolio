@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "KFold KNN Heart Disease Classifier",
+      "description": "Klasifikasi penyakit jantung menggunakan algortima Kfold dan KNN",
+      "url": "https://github.com/yusufekaw/KFold-KNN-Heart-Disease-Classifier/blob/f4af33533e59419cf6b75768d71f942423bb1d8a/main.ipynb",
+      "img": "asset/ai/kfold-knn-heart-disease/thumbnail.png"
+    },
+  {
+    "id": 2,
+    "title": "Decission Tree Heart Disease Classifier",
+    "description": "Klasifikasi penyakit jantung menggunakan algortima Decission Tree",
+    "url": "https://github.com/yusufekaw/decision_tree_klasifikasi_penyakit-jantung/blob/main/main.ipynb",
+    "img": "asset/ai/decission-tree-heart-disease/thumbnail.png"
+  },
+  {
+    "id": 3,
+    "title": "Covid19 K-medoid Clustering",
+    "description": "Klastering Covid 19 menggunakan algortima K-Medoid",
+    "url": "https://github.com/yusufekaw/covid19_k-medoid_clustering/blob/main/main.ipynb",
+    "img": "asset/ai/covid19-kmedoid-clustering/thumbnail.png"
+  }
+]
