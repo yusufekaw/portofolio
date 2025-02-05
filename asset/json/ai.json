@@ -19,5 +19,12 @@
     "description": "Klastering Covid 19 menggunakan algortima K-Medoid",
     "url": "https://github.com/yusufekaw/covid19_k-medoid_clustering/blob/main/main.ipynb",
     "img": "asset/ai/covid19-kmedoid-clustering/thumbnail.png"
+  },
+  {
+    "id": 4,
+    "title": "Dicoding Machine Learning - Klastering dan Klasifikasi",
+    "description": "Klastering data penjualan motor menggunakan K-Means dan Klasifikasi menggunakan Regresi Logistik",
+    "url": "https://github.com/yusufekaw/dicoding_ml/blob/main/Klasifikasi%20Submission%20Akhir%20BMLP_Yusuf%20Eka%20Wiraswastawan.ipynb",
+    "img": "https://www.imghost.net/ib/JuPnf3UGiZ6KJUc_1738745316.png"
   }
 ]

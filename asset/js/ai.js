@@ -5,7 +5,7 @@ fetch('asset/json/ai.json')
   const content = document.getElementById('ai');
   data.forEach(item => {
     const col = document.createElement('div');
-    col.className = 'col-sm-4';
+    col.className = 'col-sm-4 mb-4';
 
     col.innerHTML = `
       <div class="card">

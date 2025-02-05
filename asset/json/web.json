@@ -7,5 +7,14 @@
       "description": "Microsite untuk promosi toko online cuper",
       "url": "https://cuperstore.github.io/microsite/",
       "img": "https://www.imghost.net/ib/avLdu7KxuZK83gn_1733397084.jpg"
+    },
+    {
+      "id": 1,
+      "project": "Website Landing Page Warung Cuper",
+      "category" : "Landing Page",
+      "tools": "HTML, CSS, JavaScript",
+      "description": "Website landing page untuk media promosi warung cuper - seblak prasmanan",
+      "url": "https://cuperstore.github.io/warung/",
+      "img": "https://www.imghost.net/ib/faDvwvikUHpMJmD_1738744872.jpeg"
     }
 ]
